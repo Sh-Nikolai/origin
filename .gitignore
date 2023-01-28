@@ -1,0 +1,6 @@
+tmp/
+*.*_old
+img/*_backup
+*.db
+*.DS_Store
+/index.html_old
